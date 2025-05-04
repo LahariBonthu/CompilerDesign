@@ -1,6 +1,6 @@
-#  Compiler Front-End Project
+# Compiler Front-End Project
 
-##  Objective
+## Objective
 
 This project involves designing and implementing the **front end of a compiler** for a simple example language. The compiler will process source code written in the specified language and produce an **Intermediate Representation (IR)**.
 
