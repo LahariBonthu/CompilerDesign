@@ -1,0 +1,9 @@
+BcsMain
+{
+int res; int a; int b; int c; 
+c = a + a * b;  
+if(c >= 20)
+res = 0
+else {res = 5}
+}
+
