@@ -23,7 +23,7 @@ The project is divided into three main stages:
 - Build a lexical analyzer using **Lex**
 - Construct a parser using **Yacc**
 - Parse programs written in the example language
-- **Source language specification** will be provided later
+
 
 ###  Stage 3: Semantic Analysis and IR Generation
 
